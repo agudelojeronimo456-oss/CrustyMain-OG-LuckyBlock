@@ -159,9 +159,9 @@ getgenv().TARGET_BRAINROTS = {
     ["Foxini Lanternini"] = true,
     ["Dug dug dug"] = true,
     ["Spinny Hammy"] = true,
-    ["Cuadramat and Pakrahmatmamat"] = true,
-    ["La Sahur Combinasion"] = true,
-    ["Cupid Cupid Sahur"] = true,
+    ["Cigno Fulgoro"] = true,
+    ["Los Cupids"] = true,
+    ["Antonio"] = true,
     ["Griffin"] = true,
     ["Nacho Spyder"] = true
 }
